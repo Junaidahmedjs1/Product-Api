@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#cards{
+    width:45%;
+    height:48rem;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
